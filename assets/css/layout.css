@@ -1,0 +1,22 @@
+.ulLoginHeader {
+  background-color: black;
+  color: white;
+  display: block;
+}
+.ulLoginHeader li {
+  position: relative;
+  display: inline-block;
+}
+.main_img {
+  width: 100%;
+}
+
+.ulLoginHeader a {
+  color: white;
+  text-decoration: none;
+}
+
+.ulHeader a {
+  color: black;
+  text-decoration: none;
+}
